@@ -24,9 +24,27 @@ let cities = [{
   population: 3990456
 },
 {
+  location: [37.7749, -122.4194],
+  city: "San Francisco",
+  state: "CA",
+  population: 874784
+},
+{
   location: [33.4484, -112.0740],
   city: "Phoenix",
   state: "AZ",
   population: 1660272
-}
+},
+{
+  location: [40.7899, -111.9791],
+  city: "Salt Lake City",
+  state: "UT",
+  population: 450000
+},
+{
+  location: [47.4502, -122.3088],
+  city: "Seattle",
+  state: "WA",
+  population: 741251
+},
 ];
